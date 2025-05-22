@@ -1,4 +1,4 @@
-# Resumo do Lab - Introdução à Computação em Nuvem (AZ-900)
+# Resumo do Lab - Introdução à Computação em Nuvem
 
 ## **O que é Computação em Nuvem?**  
 A computação em nuvem é o fornecimento de serviços de computação pela internet, permitindo inovação acelerada, recursos escaláveis e economia de custos.  
